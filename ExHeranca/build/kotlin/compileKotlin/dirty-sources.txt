@@ -1,0 +1,4 @@
+C:\Users\marke\IdeaProjects\ExHeranca\src\main\kotlin\Main.kt
+C:\Users\marke\IdeaProjects\ExHeranca\src\main\kotlin\SalesManager.kt
+C:\Users\marke\IdeaProjects\ExHeranca\src\main\kotlin\Employee.kt
+C:\Users\marke\IdeaProjects\ExHeranca\src\main\kotlin\SalesRep.kt
